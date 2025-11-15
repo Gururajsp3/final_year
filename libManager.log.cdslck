@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      work
+HostName                       work-eda
+ProcessIdentifier              3927
+ProcessCreationTime_UTC        1763187972
+ProcessCreationTime_Readable   Sat Nov 15 14:26:12 2025 CST
+AppIdentifier                  /opt/IC617/tools/dfII/bin/64bit/libManager
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /home/work/Desktop/Amit/libManager.log
+TimeEditLocked                 Sat Nov 15 14:33:47 2025 CST
